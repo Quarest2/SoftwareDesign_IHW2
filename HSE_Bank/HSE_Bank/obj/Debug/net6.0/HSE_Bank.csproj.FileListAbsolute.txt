@@ -7,9 +7,9 @@
 /Users/Askar/RiderProjects/HSE_Bank/HSE_Bank/obj/Debug/net6.0/HSE_Bank.GeneratedMSBuildEditorConfig.editorconfig
 /Users/Askar/RiderProjects/HSE_Bank/HSE_Bank/obj/Debug/net6.0/HSE_Bank.AssemblyInfoInputs.cache
 /Users/Askar/RiderProjects/HSE_Bank/HSE_Bank/obj/Debug/net6.0/HSE_Bank.AssemblyInfo.cs
-/Users/Askar/RiderProjects/HSE_Bank/HSE_Bank/obj/Debug/net6.0/HSE_Bank.csproj.CoreCompileInputs.cache
 /Users/Askar/RiderProjects/HSE_Bank/HSE_Bank/obj/Debug/net6.0/HSE_Bank.dll
 /Users/Askar/RiderProjects/HSE_Bank/HSE_Bank/obj/Debug/net6.0/refint/HSE_Bank.dll
 /Users/Askar/RiderProjects/HSE_Bank/HSE_Bank/obj/Debug/net6.0/HSE_Bank.pdb
 /Users/Askar/RiderProjects/HSE_Bank/HSE_Bank/obj/Debug/net6.0/HSE_Bank.genruntimeconfig.cache
 /Users/Askar/RiderProjects/HSE_Bank/HSE_Bank/obj/Debug/net6.0/ref/HSE_Bank.dll
+/Users/Askar/RiderProjects/HSE_Bank/HSE_Bank/obj/Debug/net6.0/HSE_Bank.csproj.CoreCompileInputs.cache

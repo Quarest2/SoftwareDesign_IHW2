@@ -1,4 +1,3 @@
-using HSE_Bank.Patterns.Command;
 using HSE_Bank.Patterns.Facade;
 
 namespace HSE_Bank.App;
